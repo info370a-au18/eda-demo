@@ -1,0 +1,653 @@
+"sex","cause","cause_family","metric","dalys","deaths","ylds","ylls"
+"Female","Acute glomerulonephritis","Non-communicable","Number",1703.47955449,97.765094135,76.0414750311,1627.43807946
+"Female","Acute glomerulonephritis","Non-communicable","Percent",3.84327688133e-05,7.1515075838e-05,3.22673875459e-06,7.72215489656e-05
+"Female","Adverse effects of medical treatment","Injuries","Number",79073.6695516,2777.58745417,23098.6247437,55975.0448079
+"Female","Adverse effects of medical treatment","Injuries","Percent",0.00177826895677,0.00203191135524,0.000979862622672,0.00265612593596
+"Female","African trypanosomiasis","Communicable","Number",0,0,0,0
+"Female","African trypanosomiasis","Communicable","Percent",0,0,0,0
+"Female","Alcohol use disorders","Non-communicable","Number",325728.68622,2847.3279619,228155.723699,97572.9625212
+"Female","Alcohol use disorders","Non-communicable","Percent",0.00729912550121,0.00208274249524,0.00971612780769,0.00462963620017
+"Female","Alzheimer disease and other dementias","Non-communicable","Number",1543941.18783,160062.760738,373231.045657,1170710.14218
+"Female","Alzheimer disease and other dementias","Non-communicable","Percent",0.0347751311618,0.117089378791,0.0159393781679,0.0555509835148
+"Female","Animal contact","Injuries","Number",30482.5439724,99.6247344528,27118.8764484,3363.66752393
+"Female","Animal contact","Injuries","Percent",0.000681477444356,7.28771776858e-05,0.00115423620829,0.000159612319552
+"Female","Anxiety disorders","Non-communicable","Number",1129641.60005,NA,1129641.60005,NA
+"Female","Anxiety disorders","Non-communicable","Percent",0.0252544967685,NA,0.0481854896046,NA
+"Female","Aortic aneurysm","Non-communicable","Number",74263.3004216,5461.42081764,NA,74263.3004216
+"Female","Aortic aneurysm","Non-communicable","Percent",0.00167628695077,0.00399503529947,NA,0.00352375746431
+"Female","Appendicitis","Non-communicable","Number",8852.7915389,374.334707001,1696.07669334,7156.71484556
+"Female","Appendicitis","Non-communicable","Percent",0.000199435040828,0.000273809459616,7.215601544e-05,0.000339565146507
+"Female","Asthma","Non-communicable","Number",397092.450319,2585.55269402,333130.488214,63961.9621051
+"Female","Asthma","Non-communicable","Percent",0.00887525945755,0.00189128313248,0.0141522995463,0.0030348889331
+"Female","Atrial fibrillation and flutter","Non-communicable","Number",322265.988097,13918.9457333,208946.825738,113319.16236
+"Female","Atrial fibrillation and flutter","Non-communicable","Percent",0.00722522669464,0.0101819965083,0.00889998700817,0.0053771030868
+"Female","Attention-deficit/hyperactivity disorder","Non-communicable","Number",9897.83418191,NA,9897.83418191,NA
+"Female","Attention-deficit/hyperactivity disorder","Non-communicable","Percent",0.000220683360804,NA,0.000420119638957,NA
+"Female","Autistic spectrum disorders","Non-communicable","Number",93868.6215556,NA,93868.6215556,NA
+"Female","Autistic spectrum disorders","Non-communicable","Percent",0.00209582272232,NA,0.00399412085919,NA
+"Female","Bipolar disorder","Non-communicable","Number",278354.230067,NA,278354.230067,NA
+"Female","Bipolar disorder","Non-communicable","Percent",0.00622575204117,NA,0.0118819587152,NA
+"Female","Bladder cancer","Non-communicable","Number",74749.4301453,5167.98581137,5352.58585802,69396.8442873
+"Female","Bladder cancer","Non-communicable","Percent",0.00168612436851,0.00378034999722,0.000228000881973,0.00329281702747
+"Female","Brain and nervous system cancer","Non-communicable","Number",190070.265892,7316.09969107,3566.62734669,186503.638545
+"Female","Brain and nervous system cancer","Non-communicable","Percent",0.0042894523653,0.00535164111802,0.000151942588032,0.00884950366298
+"Female","Breast cancer","Non-communicable","Number",1160802.47546,48779.9030141,115060.754877,1045741.72058
+"Female","Breast cancer","Non-communicable","Percent",0.0261782196174,0.0356817088222,0.00490391449986,0.0496188297228
+"Female","Cardiomyopathy and myocarditis","Non-communicable","Number",246720.273092,12409.3920392,25262.9299164,221457.343176
+"Female","Cardiomyopathy and myocarditis","Non-communicable","Percent",0.00556397224117,0.00907724305741,0.00107372934163,0.0105078342157
+"Female","Cervical cancer","Non-communicable","Number",187344.009753,6835.48921111,6994.48893753,180349.520816
+"Female","Cervical cancer","Non-communicable","Percent",0.00422718554722,0.00499999905336,0.000297701226022,0.00855719282434
+"Female","Chagas disease","Communicable","Number",1514.47576951,0,1514.47576951,0
+"Female","Chagas disease","Communicable","Percent",3.37885027451e-05,0,6.43518382759e-05,0
+"Female","Chronic kidney disease","Non-communicable","Number",954856.942639,41606.2057644,388224.188901,566632.753738
+"Female","Chronic kidney disease","Non-communicable","Percent",0.0214893895071,0.0304347632317,0.0166263615982,0.0268861964231
+"Female","Chronic obstructive pulmonary disease","Non-communicable","Number",1621652.10565,82469.6643345,479095.712573,1142556.39308
+"Female","Chronic obstructive pulmonary disease","Non-communicable","Percent",0.0365751515064,0.0603261297533,0.0206995403483,0.0542136501955
+"Female","Cirrhosis and other chronic liver diseases due to alcohol use","Non-communicable","Number",206323.091308,8169.55410024,11189.0407387,195134.050569
+"Female","Cirrhosis and other chronic liver diseases due to alcohol use","Non-communicable","Percent",0.00465390147884,0.00597590295969,0.00047568722676,0.00925882784987
+"Female","Cirrhosis and other chronic liver diseases due to hepatitis B","Non-communicable","Number",35235.3623539,1391.65343228,2031.52882829,33203.8335256
+"Female","Cirrhosis and other chronic liver diseases due to hepatitis B","Non-communicable","Percent",0.000794815889153,0.00101795092317,8.63103036043e-05,0.00157545578603
+"Female","Cirrhosis and other chronic liver diseases due to hepatitis C","Non-communicable","Number",153157.061973,5709.4015775,8386.92193649,144770.140036
+"Female","Cirrhosis and other chronic liver diseases due to hepatitis C","Non-communicable","Percent",0.00345506479444,0.00417634517867,0.000356442865384,0.00686922482557
+"Female","Cirrhosis and other chronic liver diseases due to other causes","Non-communicable","Number",218264.688973,8672.09804964,13906.3028464,204358.386127
+"Female","Cirrhosis and other chronic liver diseases due to other causes","Non-communicable","Percent",0.00492406207395,0.00634357141098,0.000591256059347,0.00969652579544
+"Female","Colon and rectum cancer","Non-communicable","Number",659948.210535,37085.3315067,34366.9639818,625581.246554
+"Female","Colon and rectum cancer","Non-communicable","Percent",0.0148904738,0.0271276087728,0.00146563742325,0.0296831458139
+"Female","Conduct disorder","Non-communicable","Number",86167.3698092,NA,86167.3698092,NA
+"Female","Conduct disorder","Non-communicable","Percent",0.00192182329611,NA,0.0036587174107,NA
+"Female","Conflict and terrorism","Injuries","Number",782.819754662,0,782.819754662,0
+"Female","Conflict and terrorism","Injuries","Percent",1.74195820321e-05,0,3.30991643962e-05,0
+"Female","Congenital birth defects","Non-communicable","Number",553719.622671,4591.88690415,230950.266249,322769.356423
+"Female","Congenital birth defects","Non-communicable","Percent",0.0124508061227,0.00335906308541,0.00985111620727,0.015316225164
+"Female","Cystic echinococcosis","Communicable","Number",112.986893418,1.43735152492,76.7746927102,36.2122007083
+"Female","Cystic echinococcosis","Communicable","Percent",2.53050241181e-06,1.05132306579e-06,3.26201354975e-06,1.71807850628e-06
+"Female","Cysticercosis","Communicable","Number",1019.53346904,4.10309970117,893.48879824,126.044670797
+"Female","Cysticercosis","Communicable","Percent",2.28371160919e-05,3.00133199131e-06,3.81753506026e-05,5.98063120008e-06
+"Female","Dengue","Communicable","Number",147.423999493,0.380711552868,130.806909332,16.617090161
+"Female","Dengue","Communicable","Percent",3.28911678558e-06,2.78485943037e-07,5.54064423197e-06,7.88493056058e-07
+"Female","Depressive disorders","Non-communicable","Number",1766790.60837,NA,1766790.60837,NA
+"Female","Depressive disorders","Non-communicable","Percent",0.0394799649999,NA,0.0752913102398,NA
+"Female","Diabetes mellitus","Non-communicable","Number",1587099.08628,34289.3123396,1021516.79122,565582.295059
+"Female","Diabetes mellitus","Non-communicable","Percent",0.0355625929781,0.0250824181782,0.043416885363,0.0268363819914
+"Female","Diarrheal diseases","Communicable","Number",116543.480288,5417.67870979,41351.1058916,75192.3743969
+"Female","Diarrheal diseases","Communicable","Percent",0.00261989705442,0.00396303211736,0.00175618372401,0.00356791741628
+"Female","Diphtheria","Communicable","Number",60.5742276105,1.1553299405,0.0725076610679,60.5017199494
+"Female","Diphtheria","Communicable","Percent",1.36750596939e-06,8.45116241882e-07,3.07604458297e-09,2.87081611994e-06
+"Female","Drowning","Injuries","Number",50588.7007913,1028.08887917,4672.4973409,45916.2034504
+"Female","Drowning","Injuries","Percent",0.00114067495305,0.000752044461645,0.000198551731443,0.00217877947682
+"Female","Drug use disorders","Non-communicable","Number",1434802.50613,12096.4630926,931411.849975,503390.656159
+"Female","Drug use disorders","Non-communicable","Percent",0.0322368962764,0.00884835571675,0.039912609051,0.0238853478792
+"Female","Eating disorders","Non-communicable","Number",159140.554095,52.2839904205,156414.52781,2726.02628459
+"Female","Eating disorders","Non-communicable","Percent",0.00355314638326,3.82431508056e-05,0.00665187907815,0.00012934125591
+"Female","Ebola","Communicable","Number",0,0,0,0
+"Female","Ebola","Communicable","Percent",0,0,0,0
+"Female","Encephalitis","Communicable","Number",14676.3991676,398.977610718,3549.03495066,11127.3642169
+"Female","Encephalitis","Communicable","Percent",0.000330652762382,0.000291825806683,0.000151217197,0.00052794532393
+"Female","Endocarditis","Non-communicable","Number",72654.0978042,4814.9408588,1893.37637872,70760.7214255
+"Female","Endocarditis","Non-communicable","Percent",0.00164000289351,0.00352199401604,8.04297853014e-05,0.00335743321833
+"Female","Endocrine, metabolic, blood, and immune disorders","Non-communicable","Number",392364.076752,13085.28661,127904.326926,264459.749826
+"Female","Endocrine, metabolic, blood, and immune disorders","Non-communicable","Percent",0.00882229497123,0.00957205981972,0.00543724851908,0.0125488267774
+"Female","Environmental heat and cold exposure","Injuries","Number",25106.0440781,489.090072602,15964.0869165,9141.95716156
+"Female","Environmental heat and cold exposure","Injuries","Percent",0.000562904380856,0.000357712727372,0.000678679745655,0.000433724442561
+"Female","Epilepsy","Non-communicable","Number",189024.790441,969.93282491,156204.77609,32820.014351
+"Female","Epilepsy","Non-communicable","Percent",0.00423637804003,0.000709494703246,0.0066749765383,0.00155728268781
+"Female","Esophageal cancer","Non-communicable","Number",61925.7551879,3366.15332045,1123.61723051,60802.1379574
+"Female","Esophageal cancer","Non-communicable","Percent",0.00139761278708,0.0024623286903,4.78953878504e-05,0.00288503188643
+"Female","Executions and police conflict","Injuries","Number",1922.99377067,27.0237783147,634.763939216,1288.22983145
+"Female","Executions and police conflict","Injuries","Percent",4.32028156963e-05,1.97670024645e-05,2.68759803047e-05,6.11242633332e-05
+"Female","Exposure to forces of nature","Injuries","Number",1958.63519451,0,1958.63519451,0
+"Female","Exposure to forces of nature","Injuries","Percent",4.3628934636e-05,0,8.2982060773e-05,0
+"Female","Exposure to mechanical forces","Injuries","Number",157516.168265,1095.0118474,105190.409165,52325.7591002
+"Female","Exposure to mechanical forces","Injuries","Percent",0.00352931543658,0.000801018884824,0.00447528037685,0.00248299045129
+"Female","Falls","Injuries","Number",994596.116894,17271.3070813,813635.222016,180960.894878
+"Female","Falls","Injuries","Percent",0.0222428862511,0.012633978432,0.0345954949699,0.00858647911127
+"Female","Fire, heat, and hot substances","Injuries","Number",108662.189059,2628.14362463,51479.9714661,57182.2175928
+"Female","Fire, heat, and hot substances","Injuries","Percent",0.00244195016971,0.00192251011325,0.00219407086114,0.00271336832478
+"Female","Food-borne trematodiases","Communicable","Number",0,NA,0,NA
+"Female","Food-borne trematodiases","Communicable","Percent",0,NA,0,NA
+"Female","Foreign body","Injuries","Number",88213.1164831,2957.25819733,28283.2890266,59929.8274566
+"Female","Foreign body","Injuries","Percent",0.00198443654801,0.00216329038779,0.00120229408972,0.00284378645923
+"Female","Gallbladder and biliary diseases","Non-communicable","Number",44541.1856483,2802.17841125,10187.7276346,34353.4580138
+"Female","Gallbladder and biliary diseases","Non-communicable","Percent",0.00100298443977,0.00204980592351,0.000433864607579,0.00163005918594
+"Female","Gallbladder and biliary tract cancer","Non-communicable","Number",45052.1967502,2576.98461506,1078.23624087,43973.9605093
+"Female","Gallbladder and biliary tract cancer","Non-communicable","Percent",0.00101672931258,0.00188501578147,4.59640562441e-05,0.00208649445341
+"Female","Gastritis and duodenitis","Non-communicable","Number",45802.4825713,225.266381081,42567.4438112,3235.03876011
+"Female","Gastritis and duodenitis","Non-communicable","Percent",0.00102344860453,0.000164801608811,0.00181152860932,0.000153518585278
+"Female","Gout","Non-communicable","Number",24591.9772558,NA,24591.9772558,NA
+"Female","Gout","Non-communicable","Percent",0.000550034736968,NA,0.00104985069308,NA
+"Female","Guinea worm disease","Communicable","Number",0,NA,0,NA
+"Female","Guinea worm disease","Communicable","Percent",0,NA,0,NA
+"Female","Gynecological diseases","Non-communicable","Number",358138.425916,154.099279077,354526.519277,3611.90663914
+"Female","Gynecological diseases","Non-communicable","Percent",0.00799352546894,0.00011272773986,0.015075170229,0.000171387428827
+"Female","Hemoglobinopathies and hemolytic anemias","Non-communicable","Number",87235.3821625,1711.84718159,51384.0030811,35851.3790814
+"Female","Hemoglobinopathies and hemolytic anemias","Non-communicable","Percent",0.00195697737487,0.00125221852238,0.00218673481083,0.0017011390731
+"Female","Hemolytic disease and other neonatal jaundice","Communicable","Number",4816.92287954,10.8591483674,3879.25360791,937.669271634
+"Female","Hemolytic disease and other neonatal jaundice","Communicable","Percent",0.000108243215986,7.9450064634e-06,0.000166706600795,4.45020124453e-05
+"Female","HIV/AIDS","Communicable","Number",121691.130821,2006.27055422,52360.6222453,80283.2201815
+"Female","HIV/AIDS","Communicable","Percent",0.00273649277109,0.00146774589145,0.00223225469889,0.0038098982156
+"Female","Hodgkin lymphoma","Non-communicable","Number",17455.5996037,564.210602024,2096.45649787,15359.1431059
+"Female","Hodgkin lymphoma","Non-communicable","Percent",0.000393544624792,0.000412707871873,8.92232160697e-05,0.000728760754887
+"Female","Hypertensive heart disease","Non-communicable","Number",339727.837814,22477.3486337,47654.6984406,292073.139374
+"Female","Hypertensive heart disease","Non-communicable","Percent",0.00765792557457,0.0164416668275,0.00202648686915,0.013858024771
+"Female","Idiopathic developmental intellectual disability","Non-communicable","Number",44376.2365716,NA,44376.2365716,NA
+"Female","Idiopathic developmental intellectual disability","Non-communicable","Percent",0.000989245973358,NA,0.00188277078683,NA
+"Female","Indirect maternal deaths","Communicable","Number",10046.2869534,191.510490457,NA,10046.2869534
+"Female","Indirect maternal deaths","Communicable","Percent",0.000226731606087,0.00014008870501,NA,0.000476695962618
+"Female","Inflammatory bowel disease","Non-communicable","Number",168480.181669,2827.15018671,125517.536184,42962.6454858
+"Female","Inflammatory bowel disease","Non-communicable","Percent",0.0037715483093,0.00206810473406,0.00533889197026,0.00203859920572
+"Female","Inguinal, femoral, and abdominal hernia","Non-communicable","Number",34407.2936706,942.497157383,22605.9947357,11801.2989349
+"Female","Inguinal, femoral, and abdominal hernia","Non-communicable","Percent",0.000771644903444,0.000689358366779,0.000963433153166,0.000559891384443
+"Female","Interpersonal violence","Injuries","Number",293632.776046,4519.53676138,71729.2999886,221903.476057
+"Female","Interpersonal violence","Injuries","Percent",0.00661046636978,0.00330594324578,0.00304846893761,0.010529125084
+"Female","Interstitial lung disease and pulmonary sarcoidosis","Non-communicable","Number",152309.505167,9002.2776447,16671.8151279,135637.690039
+"Female","Interstitial lung disease and pulmonary sarcoidosis","Non-communicable","Percent",0.00343511728137,0.00658530599753,0.000711370558067,0.00643611075265
+"Female","Intestinal infectious diseases","Communicable","Number",458.387700041,16.8520818255,8.33134023906,450.056359802
+"Female","Intestinal infectious diseases","Communicable","Percent",1.03581579892e-05,1.23285815325e-05,3.53123274471e-07,2.13579007017e-05
+"Female","Intestinal nematode infections","Communicable","Number",0,0,0,0
+"Female","Intestinal nematode infections","Communicable","Percent",0,0,0,0
+"Female","Iodine deficiency","Communicable","Number",25359.2186786,29.9890424088,24782.8433602,576.375318454
+"Female","Iodine deficiency","Communicable","Percent",0.000566652970649,2.19371112725e-05,0.00105564826317,2.73501711306e-05
+"Female","Ischemic heart disease","Non-communicable","Number",3000600.51606,256911.354806,135468.167479,2865132.34859
+"Female","Ischemic heart disease","Non-communicable","Percent",0.0677005288955,0.187930169882,0.00576152604324,0.135948603113
+"Female","Kidney cancer","Non-communicable","Number",108952.60868,5675.29536067,7398.13039342,101554.478286
+"Female","Kidney cancer","Non-communicable","Percent",0.00245770881793,0.00415139579488,0.000315037486692,0.00481864355383
+"Female","Larynx cancer","Non-communicable","Number",18897.6110093,859.314758576,1128.82354008,17768.7874692
+"Female","Larynx cancer","Non-communicable","Percent",0.000426318262186,0.000628578959301,4.8049061162e-05,0.000843112654869
+"Female","Late maternal deaths","Communicable","Number",9618.19222429,176.777418571,NA,9618.19222429
+"Female","Late maternal deaths","Communicable","Percent",0.000217086887908,0.000129302269491,NA,0.000456342853149
+"Female","Leishmaniasis","Communicable","Number",0.0844461425217,0,0.0844461425217,0
+"Female","Leishmaniasis","Communicable","Percent",1.88104253491e-09,0,3.57717116355e-09,0
+"Female","Leprosy","Communicable","Number",1.00574921113,NA,1.00574921113,NA
+"Female","Leprosy","Communicable","Percent",2.24276527946e-08,NA,4.26958398894e-08,NA
+"Female","Leukemia","Non-communicable","Number",236234.639973,12088.6422474,9506.45850016,226728.181473
+"Female","Leukemia","Non-communicable","Percent",0.00533049601049,0.00884274573736,0.000405302359459,0.0107580501702
+"Female","Lip and oral cavity cancer","Non-communicable","Number",41599.1105537,2191.47040924,3335.73777678,38263.3727769
+"Female","Lip and oral cavity cancer","Non-communicable","Percent",0.00093830530641,0.00160303235134,0.000142090693677,0.00181554763256
+"Female","Liver cancer","Non-communicable","Number",155108.223818,8389.89555014,2177.68201535,152930.541802
+"Female","Liver cancer","Non-communicable","Percent",0.00350081851882,0.00613701144933,9.27868796866e-05,0.00725625481196
+"Female","Low back and neck pain","Non-communicable","Number",2896032.87656,NA,2896032.87656,NA
+"Female","Low back and neck pain","Non-communicable","Percent",0.0646957232456,NA,0.12334890579,NA
+"Female","Lower respiratory infections","Communicable","Number",638335.160706,50064.5401874,9406.203338,628928.957368
+"Female","Lower respiratory infections","Communicable","Percent",0.0144077587312,0.0366220710741,0.000399543138231,0.0298422874475
+"Female","Lymphatic filariasis","Communicable","Number",0,NA,0,NA
+"Female","Lymphatic filariasis","Communicable","Percent",0,NA,0,NA
+"Female","Malaria","Communicable","Number",0,0,0,0
+"Female","Malaria","Communicable","Percent",0,0,0,0
+"Female","Malignant skin melanoma","Non-communicable","Number",90864.9692823,3551.96320282,10724.6940959,80140.2751864
+"Female","Malignant skin melanoma","Non-communicable","Percent",0.00204948509451,0.00259811787011,0.000456720597607,0.0038023985519
+"Female","Maternal abortion, miscarriage, and ectopic pregnancy","Communicable","Number",9001.63074421,162.311991976,842.375989513,8159.2547547
+"Female","Maternal abortion, miscarriage, and ectopic pregnancy","Communicable","Percent",0.000202985939179,0.000118726044076,3.5726854681e-05,0.000387140418869
+"Female","Maternal deaths aggravated by HIV/AIDS","Communicable","Number",60.8131406436,1.23116470357,NA,60.8131406436
+"Female","Maternal deaths aggravated by HIV/AIDS","Communicable","Percent",1.37362010737e-06,9.00531604265e-07,NA,2.88537223889e-06
+"Female","Maternal hemorrhage","Communicable","Number",6328.60596603,70.0737206442,2583.29259077,3745.31337526
+"Female","Maternal hemorrhage","Communicable","Percent",0.000142206289466,5.12519997608e-05,0.000109853375744,0.000177689471602
+"Female","Maternal hypertensive disorders","Communicable","Number",11142.9645214,107.243464607,5363.53628173,5779.42823972
+"Female","Maternal hypertensive disorders","Communicable","Percent",0.000250080008055,7.84411963736e-05,0.000227729779393,0.00027420576925
+"Female","Maternal obstructed labor and uterine rupture","Communicable","Number",1690.45688156,11.1233914472,1101.0185647,589.43831686
+"Female","Maternal obstructed labor and uterine rupture","Communicable","Percent",3.79157947305e-05,8.13682772695e-06,4.69216214017e-05,2.79694513907e-05
+"Female","Maternal sepsis and other maternal infections","Communicable","Number",3161.63570555,49.9318464192,607.11891426,2554.51679129
+"Female","Maternal sepsis and other maternal infections","Communicable","Percent",7.12231555243e-05,3.65243570697e-05,2.586478213e-05,0.000121209549246
+"Female","Measles","Communicable","Number",71.0176427899,0.844896444629,0.831973933681,70.1856688562
+"Female","Measles","Communicable","Percent",1.60275112519e-06,6.18063103095e-07,3.52688319445e-08,3.33045235053e-06
+"Female","Meningitis","Communicable","Number",29545.6313115,651.087038958,5670.08749921,23875.5438123
+"Female","Meningitis","Communicable","Percent",0.000665610837339,0.000476261455234,0.000241388304514,0.00113289541936
+"Female","Mesothelioma","Non-communicable","Number",12030.8103561,654.165224591,227.786081254,11803.0242749
+"Female","Mesothelioma","Non-communicable","Percent",0.000271526646372,0.000478515366982,9.7131504067e-06,0.000560044251048
+"Female","Migraine","Non-communicable","Number",1477014.35414,NA,1477014.35414,NA
+"Female","Migraine","Non-communicable","Percent",0.0330076207035,NA,0.0629511864331,NA
+"Female","Motor neuron disease","Non-communicable","Number",79528.1046186,3472.71451169,6095.34706546,73432.7575531
+"Female","Motor neuron disease","Non-communicable","Percent",0.00179392394181,0.002540243981,0.000259836380393,0.00348433819968
+"Female","Multiple myeloma","Non-communicable","Number",111218.654121,6428.62644317,5544.79549232,105673.858629
+"Female","Multiple myeloma","Non-communicable","Percent",0.00251022675746,0.00470257426828,0.000236992689626,0.00501426394938
+"Female","Multiple sclerosis","Non-communicable","Number",156331.286032,2518.32232486,91496.0320957,64835.2539367
+"Female","Multiple sclerosis","Non-communicable","Percent",0.00351239424458,0.00184219043713,0.00391573217434,0.00307650398777
+"Female","Nasopharynx cancer","Non-communicable","Number",10401.471261,367.497230336,281.42717522,10120.0440858
+"Female","Nasopharynx cancer","Non-communicable","Percent",0.000234725356598,0.00026881570331,1.19752850548e-05,0.00048017938915
+"Female","Neonatal encephalopathy due to birth asphyxia and trauma","Communicable","Number",82818.8977206,824.412613336,11499.1719546,71319.7257661
+"Female","Neonatal encephalopathy due to birth asphyxia and trauma","Communicable","Percent",0.00186813067184,0.0006031430067,0.000493821331326,0.00338463840825
+"Female","Neonatal sepsis and other neonatal infections","Communicable","Number",54482.8575931,329.776539386,25940.2202651,28542.637328
+"Female","Neonatal sepsis and other neonatal infections","Communicable","Percent",0.00122906672349,0.000241242234774,0.00112481728797,0.00135441778965
+"Female","Non-Hodgkin lymphoma","Non-communicable","Number",212145.196391,12122.1608475,12289.4970396,199855.699352
+"Female","Non-Hodgkin lymphoma","Non-communicable","Percent",0.0047864418557,0.00886710398749,0.000523790318975,0.00948274467062
+"Female","Non-melanoma skin cancer","Non-communicable","Number",19535.8468756,970.086921244,5874.55200736,13661.2948682
+"Female","Non-melanoma skin cancer","Non-communicable","Percent",0.000440074671244,0.000709613439504,0.000251888258187,0.000648214704614
+"Female","Onchocerciasis","Communicable","Number",0,NA,0,NA
+"Female","Onchocerciasis","Communicable","Percent",0,NA,0,NA
+"Female","Oral disorders","Non-communicable","Number",571209.891855,NA,571209.891855,NA
+"Female","Oral disorders","Non-communicable","Percent",0.0127513346154,NA,0.0242993459053,NA
+"Female","Osteoarthritis","Non-communicable","Number",601504.189625,NA,601504.189625,NA
+"Female","Osteoarthritis","Non-communicable","Percent",0.0134271568257,NA,0.0255869519211,NA
+"Female","Other cardiovascular and circulatory diseases","Non-communicable","Number",471217.138895,23443.5352161,154330.402748,316886.736147
+"Female","Other cardiovascular and circulatory diseases","Non-communicable","Percent",0.0105969610781,0.0171491030717,0.00655834505028,0.0150362134885
+"Female","Other chronic respiratory diseases","Non-communicable","Number",32050.9204378,868.869027786,12126.231756,19924.6886818
+"Female","Other chronic respiratory diseases","Non-communicable","Percent",0.000722234254457,0.00063558970742,0.000523050963471,0.000945450203095
+"Female","Other digestive diseases","Non-communicable","Number",92070.8333206,5778.2647178,20333.9276907,71736.9056299
+"Female","Other digestive diseases","Non-communicable","Percent",0.00207316971944,0.00422679519173,0.000865453477739,0.00340386142049
+"Female","Other maternal disorders","Communicable","Number",22557.9354643,391.319183664,1851.76786971,20706.1675946
+"Female","Other maternal disorders","Communicable","Percent",0.000508709944236,0.000286238939975,7.86933427329e-05,0.000982467281787
+"Female","Other mental and substance use disorders","Non-communicable","Number",206725.254243,NA,206725.254243,NA
+"Female","Other mental and substance use disorders","Non-communicable","Percent",0.00462190025538,NA,0.00881967333961,NA
+"Female","Other musculoskeletal disorders","Non-communicable","Number",1396024.68674,5550.8069894,1281303.08627,114721.600463
+"Female","Other musculoskeletal disorders","Non-communicable","Percent",0.0312350626468,0.00406021829511,0.0546496747505,0.00544311441667
+"Female","Other neglected tropical diseases","Communicable","Number",2033.55225875,63.604453577,2.65917840604,2030.89308035
+"Female","Other neglected tropical diseases","Communicable","Percent",4.58878847799e-05,4.65312762961e-05,1.12719856062e-07,9.63767258888e-05
+"Female","Other neonatal disorders","Communicable","Number",97075.8341736,1076.17941982,3928.05008312,93147.7840905
+"Female","Other neonatal disorders","Communicable","Percent",0.00219061406611,0.00078732534477,0.000168159276934,0.00442046864739
+"Female","Other neoplasms","Non-communicable","Number",282063.481496,14315.7082715,10325.6029846,271737.878511
+"Female","Other neoplasms","Non-communicable","Percent",0.00636459380111,0.0104718575012,0.000439789795452,0.0128937557857
+"Female","Other neurological disorders","Non-communicable","Number",110163.961221,2793.46817217,44282.9377443,65881.0234764
+"Female","Other neurological disorders","Non-communicable","Percent",0.00247795530667,0.00204339222427,0.00189162179423,0.00312600263636
+"Female","Other nutritional deficiencies","Communicable","Number",3606.81850276,291.437227991,303.221722864,3303.5967799
+"Female","Other nutritional deficiencies","Communicable","Percent",8.13736450947e-05,0.000213197269846,1.28756966618e-05,0.000156761409326
+"Female","Other pharynx cancer","Non-communicable","Number",21052.6674895,1025.34921739,1127.39772749,19925.269762
+"Female","Other pharynx cancer","Non-communicable","Percent",0.000474958105777,0.000750032510739,4.79944647369e-05,0.000945434187701
+"Female","Other transport injuries","Injuries","Number",78494.5331483,492.578678182,57126.2036705,21368.3294778
+"Female","Other transport injuries","Injuries","Percent",0.00175712371285,0.000360317728119,0.00242851448653,0.00101392206971
+"Female","Other unintentional injuries","Injuries","Number",77128.241012,99.38546721,74423.1245602,2705.11645176
+"Female","Other unintentional injuries","Injuries","Percent",0.00172196632769,7.270178147e-05,0.00316432365865,0.000128360782889
+"Female","Otitis media","Communicable","Number",34050.9146397,12.4749984353,33696.9725656,353.942074094
+"Female","Otitis media","Communicable","Percent",0.000759986564323,9.12547910694e-06,0.00143269965154,1.67948639847e-05
+"Female","Ovarian cancer","Non-communicable","Number",344499.371555,16680.7615812,10577.3234082,333922.048147
+"Female","Ovarian cancer","Non-communicable","Percent",0.00777447716281,0.0122017301444,0.000451734596453,0.0158442137184
+"Female","Pancreatic cancer","Non-communicable","Number",395004.641804,23324.2957923,5176.77212318,389827.86968
+"Female","Pancreatic cancer","Non-communicable","Percent",0.00891624337704,0.0170614657832,0.000221075565392,0.0184969558546
+"Female","Pancreatitis","Non-communicable","Number",44268.8598525,1947.76432044,8309.62724468,35959.2326078
+"Female","Pancreatitis","Non-communicable","Percent",0.000997598624887,0.00142482676221,0.000353977512921,0.00170629683473
+"Female","Paralytic ileus and intestinal obstruction","Non-communicable","Number",71866.0775311,5617.7253748,2216.17376203,69649.903769
+"Female","Paralytic ileus and intestinal obstruction","Non-communicable","Percent",0.00162277521446,0.0041094274122,9.43992414226e-05,0.00330496694764
+"Female","Parkinson disease","Non-communicable","Number",135652.001135,10232.3257258,34474.753608,101177.247527
+"Female","Parkinson disease","Non-communicable","Percent",0.00305472276861,0.00748467169926,0.00147072115676,0.00480066135022
+"Female","Peptic ulcer disease","Non-communicable","Number",67369.2949196,2597.48188507,32313.4037095,35055.8912101
+"Female","Peptic ulcer disease","Non-communicable","Percent",0.00151269500725,0.00190005108855,0.00137503554813,0.00166336319441
+"Female","Peripheral artery disease","Non-communicable","Number",80431.1693587,5589.20786242,23416.2194114,57014.9499474
+"Female","Peripheral artery disease","Non-communicable","Percent",0.00181233551822,0.00408822539658,0.000999591483201,0.00270507302292
+"Female","Pneumoconiosis","Non-communicable","Number",2976.80054709,96.5869567411,1525.62629161,1451.17425549
+"Female","Pneumoconiosis","Non-communicable","Percent",6.68313972321e-05,7.06558624231e-05,6.49462484251e-05,6.88599167136e-05
+"Female","Poisonings","Injuries","Number",37856.4871127,640.676053194,12087.238592,25769.2485207
+"Female","Poisonings","Injuries","Percent",0.000851327125025,0.000468668091035,0.000513450139288,0.00122280270597
+"Female","Prostate cancer","Non-communicable","Number",0,NA,0,NA
+"Female","Prostate cancer","Non-communicable","Percent",0,NA,0,NA
+"Female","Protein-energy malnutrition","Communicable","Number",34052.9408545,2439.7170771,8817.10071266,25235.8401418
+"Female","Protein-energy malnutrition","Communicable","Percent",0.000766304436408,0.00178468643047,0.000374394948846,0.00119745285223
+"Female","Rabies","Communicable","Number",85.1853974627,1.8148244159,0.00945507654127,85.1759423862
+"Female","Rabies","Communicable","Percent",1.92288150625e-06,1.32759428041e-06,4.00612054735e-10,4.04182201319e-06
+"Female","Rheumatic heart disease","Non-communicable","Number",79038.0012155,5148.83240471,4128.84759449,74909.153621
+"Female","Rheumatic heart disease","Non-communicable","Percent",0.00178314450785,0.00376636493475,0.000175501712134,0.00355438379257
+"Female","Rheumatoid arthritis","Non-communicable","Number",458710.974263,2037.02207371,428400.055133,30310.91913
+"Female","Rheumatoid arthritis","Non-communicable","Percent",0.0102666601121,0.00149003119774,0.0182894574157,0.00143818705521
+"Female","Road injuries","Injuries","Number",783749.579769,13644.5749912,239929.77909,543819.800679
+"Female","Road injuries","Injuries","Percent",0.0176307383006,0.00998086911261,0.0102005503839,0.0258038820555
+"Female","Schistosomiasis","Communicable","Number",0,0,0,0
+"Female","Schistosomiasis","Communicable","Percent",0,0,0,0
+"Female","Schizophrenia","Non-communicable","Number",324050.763134,NA,324050.763134,NA
+"Female","Schizophrenia","Non-communicable","Percent",0.00728369253358,NA,0.0139649848602,NA
+"Female","Self-harm","Injuries","Number",463847.184496,10586.9181733,31952.9304444,431894.254051
+"Female","Self-harm","Injuries","Percent",0.0104614452727,0.00774408028298,0.00135803614186,0.0204926731102
+"Female","Sense organ diseases","Non-communicable","Number",1152425.37557,NA,1152425.37557,NA
+"Female","Sense organ diseases","Non-communicable","Percent",0.0257367507396,NA,0.0490630389331,NA
+"Female","Sexually transmitted diseases excluding HIV","Communicable","Number",37518.1431365,173.481665004,32737.1905754,4780.95256103
+"Female","Sexually transmitted diseases excluding HIV","Communicable","Percent",0.00084029686925,0.000126897748101,0.00139851769205,0.000226845795772
+"Female","Skin and subcutaneous diseases","Non-communicable","Number",1923243.66045,3992.27562286,1868662.47568,54581.1847688
+"Female","Skin and subcutaneous diseases","Non-communicable","Percent",0.0429754146129,0.00291959365226,0.0795884629278,0.00258912486494
+"Female","Stomach cancer","Non-communicable","Number",124957.465923,7177.28268147,3547.9215767,121409.544346
+"Female","Stomach cancer","Non-communicable","Percent",0.00282002731886,0.00525005367383,0.000151280866646,0.00576064955617
+"Female","Sudden infant death syndrome","Non-communicable","Number",66351.047028,770.15431315,NA,66351.047028
+"Female","Sudden infant death syndrome","Non-communicable","Percent",0.00149785849208,0.000563430307812,NA,0.00314874237382
+"Female","Tension-type headache","Non-communicable","Number",188287.938853,NA,188287.938853,NA
+"Female","Tension-type headache","Non-communicable","Percent",0.00420066525829,NA,0.00800110388086,NA
+"Female","Testicular cancer","Non-communicable","Number",0,NA,NA,NA
+"Female","Testicular cancer","Non-communicable","Percent",0,NA,NA,NA
+"Female","Tetanus","Communicable","Number",78.9494835015,3.61387915112,0.339359801351,78.6101237002
+"Female","Tetanus","Communicable","Percent",1.78266713307e-06,2.64364449363e-06,1.44303676161e-08,3.73019735147e-06
+"Female","Thyroid cancer","Non-communicable","Number",25374.6576797,1058.90043456,6899.12533454,18475.5323451
+"Female","Thyroid cancer","Non-communicable","Percent",0.000571038003621,0.000774568563694,0.000293423628355,0.000876634434997
+"Female","Tracheal, bronchus, and lung cancer","Non-communicable","Number",1599715.99925,85860.6554147,29098.0115916,1570617.98766
+"Female","Tracheal, bronchus, and lung cancer","Non-communicable","Percent",0.0361054333171,0.0628060449705,0.00124323903802,0.0745243829334
+"Female","Trachoma","Communicable","Number",0,NA,0,NA
+"Female","Trachoma","Communicable","Percent",0,NA,0,NA
+"Female","Tuberculosis","Communicable","Number",8199.00210456,385.176707686,739.671117833,7459.33098672
+"Female","Tuberculosis","Communicable","Percent",0.000184914050456,0.000281750414746,3.14512342773e-05,0.000353934312159
+"Female","Upper respiratory infections","Communicable","Number",160987.424605,10.3414634314,160748.417402,239.00720325
+"Female","Upper respiratory infections","Communicable","Percent",0.00359257087843,7.56495083172e-06,0.00683448610859,1.13408233164e-05
+"Female","Urinary diseases and male infertility","Non-communicable","Number",172962.232113,12558.5722147,24099.4995856,148862.732528
+"Female","Urinary diseases and male infertility","Non-communicable","Percent",0.00389839044442,0.00918663804326,0.00102474620322,0.0070634675593
+"Female","Uterine cancer","Non-communicable","Number",174898.387864,7855.70763261,27657.122987,147241.264877
+"Female","Uterine cancer","Non-communicable","Percent",0.00394145613391,0.00574636407867,0.00117799424253,0.00698645196582
+"Female","Varicella and herpes zoster","Communicable","Number",9897.9341612,183.32260464,7109.93522603,2787.99893517
+"Female","Varicella and herpes zoster","Communicable","Percent",0.000221471303928,0.0001341167005,0.000301874026683,0.000132313451937
+"Female","Vascular intestinal disorders","Non-communicable","Number",85157.3050678,5955.11881856,3780.15764119,81377.1474266
+"Female","Vascular intestinal disorders","Non-communicable","Percent",0.00192124825588,0.0043561687012,0.000161258133572,0.00386131261537
+"Female","Vitamin A deficiency","Communicable","Number",0,NA,0,NA
+"Female","Vitamin A deficiency","Communicable","Percent",0,NA,0,NA
+"Female","Whooping cough","Communicable","Number",1447.94590621,10.1900594171,649.473455,798.472451212
+"Female","Whooping cough","Communicable","Percent",3.2506027529e-05,7.45400306001e-06,2.75619314264e-05,3.78880577588e-05
+"Female","Yellow fever","Communicable","Number",0,0,0,0
+"Female","Yellow fever","Communicable","Percent",0,0,0,0
+"Female","Zika virus","Communicable","Number",23.4863200417,0.0222111374909,22.4104766571,1.07584338464
+"Female","Zika virus","Communicable","Percent",5.29056383734e-07,1.62475896837e-08,9.6641642868e-07,5.1071280417e-08
+"Male","Acute glomerulonephritis","Non-communicable","Number",1693.71333813,83.3106605404,75.4773491913,1618.23598894
+"Male","Acute glomerulonephritis","Non-communicable","Percent",3.53477385384e-05,5.92835026798e-05,3.83347923587e-06,5.68681565355e-05
+"Male","Adverse effects of medical treatment","Injuries","Number",76876.282792,2402.85727721,21100.1369794,55776.1458126
+"Male","Adverse effects of medical treatment","Injuries","Percent",0.0016017236149,0.00170989765247,0.00107186526324,0.00196012032091
+"Male","African trypanosomiasis","Communicable","Number",0,0,0,0
+"Male","African trypanosomiasis","Communicable","Percent",0,0,0,0
+"Male","Alcohol use disorders","Non-communicable","Number",697722.318092,8738.96695405,405731.700478,291990.617614
+"Male","Alcohol use disorders","Non-communicable","Percent",0.0144990727397,0.00621828082989,0.0206838713315,0.0102606607253
+"Male","Alzheimer disease and other dementias","Non-communicable","Number",929448.515978,78832.3759794,224373.710514,705074.805465
+"Male","Alzheimer disease and other dementias","Non-communicable","Percent",0.0193723816337,0.0560964872452,0.0114751908334,0.0247775311792
+"Male","Animal contact","Injuries","Number",34371.7404383,199.529224026,27570.010971,6801.72946728
+"Male","Animal contact","Injuries","Percent",0.000712568804998,0.000141984727548,0.00140343835468,0.00023903258895
+"Male","Anxiety disorders","Non-communicable","Number",625391.349459,NA,625391.349459,NA
+"Male","Anxiety disorders","Non-communicable","Percent",0.012961202754,NA,0.0319476529104,NA
+"Male","Aortic aneurysm","Non-communicable","Number",145003.392988,8038.78002273,NA,145003.392988
+"Male","Aortic aneurysm","Non-communicable","Percent",0.00302757216475,0.00572027208505,NA,0.0050956032032
+"Male","Appendicitis","Non-communicable","Number",12615.203843,468.361064571,1923.87147761,10691.3323654
+"Male","Appendicitis","Non-communicable","Percent",0.000262933673464,0.000333224628768,9.80347731558e-05,0.000375651160675
+"Male","Asthma","Non-communicable","Number",308010.50997,1539.78597945,257856.234663,50154.2753076
+"Male","Asthma","Non-communicable","Percent",0.00638140291501,0.00109565373426,0.013111455761,0.0017624894163
+"Male","Atrial fibrillation and flutter","Non-communicable","Number",353629.20797,8487.57446487,264160.313766,89468.894205
+"Male","Atrial fibrillation and flutter","Non-communicable","Percent",0.00733909434573,0.00603961854313,0.0134728499499,0.00314410766822
+"Male","Attention-deficit/hyperactivity disorder","Non-communicable","Number",24511.0800928,NA,24511.0800928,NA
+"Male","Attention-deficit/hyperactivity disorder","Non-communicable","Percent",0.000506886507125,NA,0.00124552291707,NA
+"Male","Autistic spectrum disorders","Non-communicable","Number",322849.863042,NA,322849.863042,NA
+"Male","Autistic spectrum disorders","Non-communicable","Percent",0.0066830146714,NA,0.0164412754291,NA
+"Male","Bipolar disorder","Non-communicable","Number",210790.371248,NA,210790.371248,NA
+"Male","Bipolar disorder","Non-communicable","Percent",0.00436962059278,NA,0.0107721359098,NA
+"Male","Bladder cancer","Non-communicable","Number",210530.684493,13218.8941236,15061.7474067,195468.937087
+"Male","Bladder cancer","Non-communicable","Percent",0.00439321171296,0.00940632177493,0.000768545615164,0.00686904134805
+"Male","Brain and nervous system cancer","Non-communicable","Number",263386.956597,9462.53789217,4395.74673551,258991.209861
+"Male","Brain and nervous system cancer","Non-communicable","Percent",0.00549701348544,0.00673317058273,0.000224171213283,0.00910112923818
+"Male","Breast cancer","Non-communicable","Number",12809.9552362,547.303492266,1738.26439828,11071.6908379
+"Male","Breast cancer","Non-communicable","Percent",0.000267148658463,0.000389458072791,8.85882136331e-05,0.000389080304908
+"Male","Cardiomyopathy and myocarditis","Non-communicable","Number",439122.940073,18527.8077275,27010.1806611,412112.759412
+"Male","Cardiomyopathy and myocarditis","Non-communicable","Percent",0.00916530521294,0.0131837070806,0.00137455805426,0.0144818656929
+"Male","Cervical cancer","Non-communicable","Number",0,NA,NA,NA
+"Male","Cervical cancer","Non-communicable","Percent",0,NA,NA,NA
+"Male","Chagas disease","Communicable","Number",1535.52621302,0,1535.52621302,0
+"Male","Chagas disease","Communicable","Percent",3.17708205143e-05,0,7.81199614725e-05,0
+"Male","Chronic kidney disease","Non-communicable","Number",981096.960857,40933.2536667,335223.957442,645873.003414
+"Male","Chronic kidney disease","Non-communicable","Percent",0.020445320445,0.0291275405709,0.0172030581411,0.0226968220397
+"Male","Chronic obstructive pulmonary disease","Non-communicable","Number",1910308.56216,81323.2009956,705461.220441,1204847.34172
+"Male","Chronic obstructive pulmonary disease","Non-communicable","Percent",0.0398516616007,0.0578696365401,0.0364794059914,0.0423412142522
+"Male","Cirrhosis and other chronic liver diseases due to alcohol use","Non-communicable","Number",475621.075807,17096.7490602,15036.766542,460584.309265
+"Male","Cirrhosis and other chronic liver diseases due to alcohol use","Non-communicable","Percent",0.00992652987544,0.0121652159987,0.000765533370217,0.0161848039019
+"Male","Cirrhosis and other chronic liver diseases due to hepatitis B","Non-communicable","Number",79275.0903536,2838.94690981,2654.48380448,76620.6065491
+"Male","Cirrhosis and other chronic liver diseases due to hepatitis B","Non-communicable","Percent",0.00165456486705,0.00202003385644,0.000135092393705,0.0026924003613
+"Male","Cirrhosis and other chronic liver diseases due to hepatitis C","Non-communicable","Number",380853.654524,13161.8914634,12169.9913276,368683.663196
+"Male","Cirrhosis and other chronic liver diseases due to hepatitis C","Non-communicable","Percent",0.00794929668294,0.00936548543439,0.000619452242991,0.0129556623395
+"Male","Cirrhosis and other chronic liver diseases due to other causes","Non-communicable","Number",158084.610325,5603.45377036,6612.29549506,151472.31483
+"Male","Cirrhosis and other chronic liver diseases due to other causes","Non-communicable","Percent",0.00329972227522,0.00398730253328,0.000336659549507,0.00532295368337
+"Male","Colon and rectum cancer","Non-communicable","Number",851762.537717,42211.4654618,40367.685437,811394.85228
+"Male","Colon and rectum cancer","Non-communicable","Percent",0.0177773771863,0.0300368404715,0.00206106978764,0.0285133575776
+"Male","Conduct disorder","Non-communicable","Number",152812.159898,NA,152812.159898,NA
+"Male","Conduct disorder","Non-communicable","Percent",0.00316132844708,NA,0.00777116112903,NA
+"Male","Conflict and terrorism","Injuries","Number",5589.75705746,0,5589.75705746,0
+"Male","Conflict and terrorism","Injuries","Percent",0.000115417268343,0,0.000283001607525,0
+"Male","Congenital birth defects","Non-communicable","Number",626245.394761,5234.90148888,256874.99748,369370.397281
+"Male","Congenital birth defects","Non-communicable","Percent",0.0130369015048,0.00372536626304,0.0131175792356,0.0129816191434
+"Male","Cystic echinococcosis","Communicable","Number",114.270319238,1.8305406081,56.7539677063,57.5163515313
+"Male","Cystic echinococcosis","Communicable","Percent",2.37406211026e-06,1.30252166763e-06,2.87977224133e-06,2.02108482279e-06
+"Male","Cysticercosis","Communicable","Number",577.521820995,4.27443781936,429.168442513,148.353378482
+"Male","Cysticercosis","Communicable","Percent",1.19970456217e-05,3.04153411672e-06,2.19476726855e-05,5.21326921205e-06
+"Male","Dengue","Communicable","Number",138.910520734,0.515084475157,110.642568991,28.267951743
+"Male","Dengue","Communicable","Percent",2.87694464739e-06,3.66532717973e-07,5.61278939586e-06,9.9343512452e-07
+"Male","Depressive disorders","Non-communicable","Number",948249.868678,NA,948249.868678,NA
+"Male","Depressive disorders","Non-communicable","Percent",0.0196449141565,NA,0.0483914100489,NA
+"Male","Diabetes mellitus","Non-communicable","Number",1861572.50789,37160.8994708,1121419.10272,740153.405175
+"Male","Diabetes mellitus","Non-communicable","Percent",0.0386601870945,0.0264430400152,0.0570681013667,0.0260099929611
+"Male","Diarrheal diseases","Communicable","Number",107638.247418,3986.6961824,36817.3982258,70820.8491918
+"Male","Diarrheal diseases","Communicable","Percent",0.00224032761921,0.00283686971275,0.0018720075803,0.00248884040272
+"Male","Diphtheria","Communicable","Number",97.7076133666,1.87331807474,0.105413729192,97.6021996374
+"Male","Diphtheria","Communicable","Percent",2.04007352615e-06,1.33306455226e-06,5.35499309844e-09,3.43007878465e-06
+"Male","Drowning","Injuries","Number",157957.512686,3178.73806488,4093.0369863,153864.4757
+"Male","Drowning","Injuries","Percent",0.00329733923313,0.00226195030577,0.000208152656652,0.00540719125598
+"Male","Drug use disorders","Non-communicable","Number",2372149.05516,21613.4219114,1392457.47955,979691.575613
+"Male","Drug use disorders","Non-communicable","Percent",0.0493620541358,0.015378682222,0.0714295573241,0.0344256928633
+"Male","Eating disorders","Non-communicable","Number",41922.2734465,10.5328358341,41370.1263951,552.147051341
+"Male","Eating disorders","Non-communicable","Percent",0.000867950735766,7.49470724546e-06,0.00210715215825,1.94026971246e-05
+"Male","Ebola","Communicable","Number",0,0,0,0
+"Male","Ebola","Communicable","Percent",0,0,0,0
+"Male","Encephalitis","Communicable","Number",16670.8290379,439.572052502,3004.31926526,13666.5097727
+"Male","Encephalitis","Communicable","Percent",0.000347711282917,0.000312782812679,0.000153313545178,0.000480263297099
+"Male","Endocarditis","Non-communicable","Number",85580.5587083,4316.82280795,1716.99577449,83863.5629338
+"Male","Endocarditis","Non-communicable","Percent",0.00178691269696,0.00307189618113,8.73212212698e-05,0.00294723575123
+"Male","Endocrine, metabolic, blood, and immune disorders","Non-communicable","Number",407445.669573,13163.7946509,84218.3036089,323227.365964
+"Male","Endocrine, metabolic, blood, and immune disorders","Non-communicable","Percent",0.00849255874585,0.00936710005775,0.00428669791447,0.0113587649501
+"Male","Environmental heat and cold exposure","Injuries","Number",56593.7903133,1092.04748392,25637.6490307,30956.1412826
+"Male","Environmental heat and cold exposure","Injuries","Percent",0.00117689906308,0.000777094551458,0.00130429562091,0.00108784538324
+"Male","Epilepsy","Non-communicable","Number",184157.97157,1105.86542435,141573.688859,42584.2827113
+"Male","Epilepsy","Non-communicable","Percent",0.00382526501467,0.000786915775162,0.007243062943,0.0014964924447
+"Male","Esophageal cancer","Non-communicable","Number",315975.195846,14774.6140312,3944.40399969,312030.791846
+"Male","Esophageal cancer","Non-communicable","Percent",0.00659683668198,0.0105132695738,0.000201723604339,0.0109651576225
+"Male","Executions and police conflict","Injuries","Number",35047.2390596,479.029678097,10787.7493889,24259.4896707
+"Male","Executions and police conflict","Injuries","Percent",0.000729124865294,0.000340845215713,0.000546413828933,0.000852455355672
+"Male","Exposure to forces of nature","Injuries","Number",3149.21274057,0,3149.21274057,0
+"Male","Exposure to forces of nature","Injuries","Percent",6.5044826022e-05,0,0.000159551784928,0
+"Male","Exposure to mechanical forces","Injuries","Number",393415.46702,5345.7811377,222305.051357,171110.415663
+"Male","Exposure to mechanical forces","Injuries","Percent",0.00817305367444,0.00380404430922,0.0113179475172,0.00601326380244
+"Male","Falls","Injuries","Number",858030.972307,16973.3285262,575448.157003,282582.815304
+"Male","Falls","Injuries","Percent",0.0178061839759,0.0120779238802,0.0292822847041,0.00993034882917
+"Male","Fire, heat, and hot substances","Injuries","Number",151077.622018,2931.93662216,69718.4901606,81359.1318576
+"Male","Fire, heat, and hot substances","Injuries","Percent",0.00314250805272,0.00208639507286,0.00355408269294,0.00285923817978
+"Male","Food-borne trematodiases","Communicable","Number",0,NA,0,NA
+"Male","Food-borne trematodiases","Communicable","Percent",0,NA,0,NA
+"Male","Foreign body","Injuries","Number",124226.314251,3588.37017391,31767.6614522,92458.6527992
+"Male","Foreign body","Injuries","Percent",0.00258798169305,0.00255362507477,0.00161596103496,0.00324947500921
+"Male","Gallbladder and biliary diseases","Non-communicable","Number",44313.6102539,2570.35839563,5896.58448422,38417.0257697
+"Male","Gallbladder and biliary diseases","Non-communicable","Percent",0.000923948501197,0.00182885614479,0.000300596870767,0.00134988471133
+"Male","Gallbladder and biliary tract cancer","Non-communicable","Number",32970.0326574,1785.66403699,950.689208117,32019.3434493
+"Male","Gallbladder and biliary tract cancer","Non-communicable","Percent",0.000688199384516,0.00127060645832,4.85319081559e-05,0.00112516183448
+"Male","Gastritis and duodenitis","Non-communicable","Number",12468.1972099,220.726578423,7830.05793435,4638.13927555
+"Male","Gastritis and duodenitis","Non-communicable","Percent",0.000259100324254,0.000157043088962,0.000399737429738,0.000162967279387
+"Male","Gout","Non-communicable","Number",81487.8283067,NA,81487.8283067,NA
+"Male","Gout","Non-communicable","Percent",0.00168937566011,NA,0.00416515431681,NA
+"Male","Guinea worm disease","Communicable","Number",0,NA,0,NA
+"Male","Guinea worm disease","Communicable","Percent",0,NA,0,NA
+"Male","Gynecological diseases","Non-communicable","Number",0,NA,0,NA
+"Male","Gynecological diseases","Non-communicable","Percent",0,NA,0,NA
+"Male","Hemoglobinopathies and hemolytic anemias","Non-communicable","Number",51753.2548458,1275.42237861,19685.1601048,32068.094741
+"Male","Hemoglobinopathies and hemolytic anemias","Non-communicable","Percent",0.00107726789943,0.000907564608125,0.00100448511453,0.00112691244704
+"Male","Hemolytic disease and other neonatal jaundice","Communicable","Number",5749.99769436,16.1999066467,4350.75894281,1399.23875155
+"Male","Hemolytic disease and other neonatal jaundice","Communicable","Percent",0.000119647116337,1.15291824457e-05,0.000223814598741,4.9178558632e-05
+"Male","HIV/AIDS","Communicable","Number",297144.884204,5110.22742909,148420.097237,192713.767832
+"Male","HIV/AIDS","Communicable","Percent",0.00618459089224,0.00363676928227,0.00757738078789,0.00677312170035
+"Male","Hodgkin lymphoma","Non-communicable","Number",25179.0398352,760.806993822,2892.31658405,22286.7232511
+"Male","Hodgkin lymphoma","Non-communicable","Percent",0.000525202457208,0.000541366741849,0.0001474163143,0.000783178915032
+"Male","Hypertensive heart disease","Non-communicable","Number",409622.303331,17726.3777079,31837.1494488,377785.153882
+"Male","Hypertensive heart disease","Non-communicable","Percent",0.00854107154288,0.0126121316838,0.00162052428813,0.0132738091125
+"Male","Idiopathic developmental intellectual disability","Non-communicable","Number",49927.5940146,NA,49927.5940146,NA
+"Male","Idiopathic developmental intellectual disability","Non-communicable","Percent",0.00103206076762,NA,0.00253463314367,NA
+"Male","Indirect maternal deaths","Communicable","Number",0,NA,NA,NA
+"Male","Indirect maternal deaths","Communicable","Percent",0,NA,NA,NA
+"Male","Inflammatory bowel disease","Non-communicable","Number",147534.709528,1918.13514758,111696.600198,35838.1093302
+"Male","Inflammatory bowel disease","Non-communicable","Percent",0.00306010992376,0.00136481888026,0.00568859201891,0.00125931567373
+"Male","Inguinal, femoral, and abdominal hernia","Non-communicable","Number",29731.9838409,782.665748665,17398.7189676,12333.2648734
+"Male","Inguinal, femoral, and abdominal hernia","Non-communicable","Percent",0.000617949082526,0.000556866275184,0.000887850128167,0.000433350744471
+"Male","Interpersonal violence","Injuries","Number",873721.825925,13751.1376795,147013.632086,726708.193839
+"Male","Interpersonal violence","Injuries","Percent",0.0182073553761,0.00978410445325,0.00748110800186,0.025534996103
+"Male","Interstitial lung disease and pulmonary sarcoidosis","Non-communicable","Number",178757.688513,10212.4699463,13843.323546,164914.364967
+"Male","Interstitial lung disease and pulmonary sarcoidosis","Non-communicable","Percent",0.00372682780211,0.00726619833685,0.00070741408325,0.00579465983424
+"Male","Intestinal infectious diseases","Communicable","Number",439.415738177,12.4757165029,9.07877402606,430.336964151
+"Male","Intestinal infectious diseases","Communicable","Percent",9.18059569517e-06,8.87841219524e-06,4.61264292997e-07,1.51241605617e-05
+"Male","Intestinal nematode infections","Communicable","Number",0,0,0,0
+"Male","Intestinal nematode infections","Communicable","Percent",0,0,0,0
+"Male","Iodine deficiency","Communicable","Number",15161.399552,22.5684508644,14640.7589667,520.640585325
+"Male","Iodine deficiency","Communicable","Percent",0.000314047219307,1.60564611636e-05,0.00074630018366,1.82931697299e-05
+"Male","Ischemic heart disease","Non-communicable","Number",4900742.53803,287920.93844,160599.621374,4740142.91666
+"Male","Ischemic heart disease","Non-communicable","Percent",0.102293007346,0.204878462731,0.00817776795164,0.166573927503
+"Male","Kidney cancer","Non-communicable","Number",229253.024287,10648.9285089,11950.4486021,217302.575685
+"Male","Kidney cancer","Non-communicable","Percent",0.00478440982386,0.00757755074737,0.000609629927146,0.00763629669321
+"Male","Larynx cancer","Non-communicable","Number",93135.438105,4188.02451211,5575.75469153,87559.6834135
+"Male","Larynx cancer","Non-communicable","Percent",0.0019435948285,0.0029801134834,0.000284538058474,0.00307696057438
+"Male","Late maternal deaths","Communicable","Number",0,NA,NA,NA
+"Male","Late maternal deaths","Communicable","Percent",0,NA,NA,NA
+"Male","Leishmaniasis","Communicable","Number",0.0834483945744,0,0.0834483945744,0
+"Male","Leishmaniasis","Communicable","Percent",1.7247814998e-09,0,4.23436720551e-09,0
+"Male","Leprosy","Communicable","Number",1.72378692016,NA,1.72378692016,NA
+"Male","Leprosy","Communicable","Percent",3.56505680049e-08,NA,8.75854538156e-08,NA
+"Male","Leukemia","Non-communicable","Number",346455.593403,16763.5005282,14239.5912621,332216.002141
+"Male","Leukemia","Non-communicable","Percent",0.00723152784154,0.0119285588911,0.000727580711436,0.0116745045424
+"Male","Lip and oral cavity cancer","Non-communicable","Number",104736.412539,4560.80460797,6792.68827635,97943.7242623
+"Male","Lip and oral cavity cancer","Non-communicable","Percent",0.00218561622465,0.00324534979251,0.000346614557931,0.00344184392884
+"Male","Liver cancer","Non-communicable","Number",373587.283777,16469.6274294,5946.3927287,367640.891048
+"Male","Liver cancer","Non-communicable","Percent",0.00779902688241,0.0117191265936,0.000303385221572,0.0129189840993
+"Male","Low back and neck pain","Non-communicable","Number",2155590.40603,NA,2155590.40603,NA
+"Male","Low back and neck pain","Non-communicable","Percent",0.0446454348264,NA,0.109928023663,NA
+"Male","Lower respiratory infections","Communicable","Number",713782.164109,45927.918921,7912.3866821,705869.777427
+"Male","Lower respiratory infections","Communicable","Percent",0.0149013514744,0.0326817676831,0.000402252393548,0.0248053198857
+"Male","Lymphatic filariasis","Communicable","Number",0,NA,0,NA
+"Male","Lymphatic filariasis","Communicable","Percent",0,NA,0,NA
+"Male","Malaria","Communicable","Number",0,0,0,0
+"Male","Malaria","Communicable","Percent",0,0,0,0
+"Male","Malignant skin melanoma","Non-communicable","Number",165318.063955,6926.82432168,16240.1097116,149077.954243
+"Male","Malignant skin melanoma","Non-communicable","Percent",0.00344856844322,0.00492885074752,0.000827745852316,0.00523866608467
+"Male","Maternal abortion, miscarriage, and ectopic pregnancy","Communicable","Number",0,NA,NA,NA
+"Male","Maternal abortion, miscarriage, and ectopic pregnancy","Communicable","Percent",0,NA,NA,NA
+"Male","Maternal deaths aggravated by HIV/AIDS","Communicable","Number",0,NA,NA,NA
+"Male","Maternal deaths aggravated by HIV/AIDS","Communicable","Percent",0,NA,NA,NA
+"Male","Maternal hemorrhage","Communicable","Number",0,NA,0,NA
+"Male","Maternal hemorrhage","Communicable","Percent",0,NA,0,NA
+"Male","Maternal hypertensive disorders","Communicable","Number",0,NA,0,NA
+"Male","Maternal hypertensive disorders","Communicable","Percent",0,NA,0,NA
+"Male","Maternal obstructed labor and uterine rupture","Communicable","Number",0,NA,NA,NA
+"Male","Maternal obstructed labor and uterine rupture","Communicable","Percent",0,NA,NA,NA
+"Male","Maternal sepsis and other maternal infections","Communicable","Number",0,NA,0,NA
+"Male","Maternal sepsis and other maternal infections","Communicable","Percent",0,NA,0,NA
+"Male","Measles","Communicable","Number",74.7734439412,0.887800705259,0.855148825637,73.9182951155
+"Male","Measles","Communicable","Percent",1.56101414999e-06,6.31818037565e-07,4.34077795997e-08,2.59792739217e-06
+"Male","Meningitis","Communicable","Number",36259.8075471,773.512570618,5510.17916198,30749.6283851
+"Male","Meningitis","Communicable","Percent",0.000756045945735,0.000550379129677,0.000280944545915,0.00108054375735
+"Male","Mesothelioma","Non-communicable","Number",44471.3475516,2627.50750946,897.847991371,43573.4995602
+"Male","Mesothelioma","Non-communicable","Percent",0.000928514433392,0.00186963024196,4.58782238966e-05,0.00153118041863
+"Male","Migraine","Non-communicable","Number",533060.366543,NA,533060.366543,NA
+"Male","Migraine","Non-communicable","Percent",0.0110444666768,NA,0.0272049075823,NA
+"Male","Motor neuron disease","Non-communicable","Number",102830.811551,4159.59515299,7105.37025376,95725.4412971
+"Male","Motor neuron disease","Non-communicable","Percent",0.00214584220622,0.00295981735028,0.000362851865662,0.00336387158895
+"Male","Multiple myeloma","Non-communicable","Number",147825.099086,7783.73488451,7166.17029353,140658.928793
+"Male","Multiple myeloma","Non-communicable","Percent",0.00308687003953,0.00553893102091,0.000367090997719,0.00494312931747
+"Male","Multiple sclerosis","Non-communicable","Number",74839.10553,1343.57419316,39006.8042817,35832.3012482
+"Male","Multiple sclerosis","Non-communicable","Percent",0.00155752347169,0.000956046379209,0.00199911794982,0.00125917201109
+"Male","Nasopharynx cancer","Non-communicable","Number",20089.8921195,715.617835605,608.231924575,19481.6601949
+"Male","Nasopharynx cancer","Non-communicable","Percent",0.000419302817012,0.000509201404864,3.09938130455e-05,0.00068458529784
+"Male","Neonatal encephalopathy due to birth asphyxia and trauma","Communicable","Number",97768.0394311,986.280691916,12451.7617641,85316.277667
+"Male","Neonatal encephalopathy due to birth asphyxia and trauma","Communicable","Percent",0.00203994714845,0.000701880878211,0.000640298986891,0.00299841667862
+"Male","Neonatal sepsis and other neonatal infections","Communicable","Number",62542.2730481,399.722608927,27946.053386,34596.2196621
+"Male","Neonatal sepsis and other neonatal infections","Communicable","Percent",0.00130530681139,0.00028448747931,0.00145126720653,0.0012160048407
+"Male","Non-Hodgkin lymphoma","Non-communicable","Number",297534.393628,14695.8509846,15140.1132827,282394.280345
+"Male","Non-Hodgkin lymphoma","Non-communicable","Percent",0.00621018073593,0.0104575108733,0.000772795587664,0.00992391654599
+"Male","Non-melanoma skin cancer","Non-communicable","Number",50560.6193038,2591.93333651,6078.24813221,44482.3711716
+"Male","Non-melanoma skin cancer","Non-communicable","Percent",0.00105499353417,0.00184437144779,0.000312154420049,0.00156316121963
+"Male","Onchocerciasis","Communicable","Number",0,NA,0,NA
+"Male","Onchocerciasis","Communicable","Percent",0,NA,0,NA
+"Male","Oral disorders","Non-communicable","Number",494829.222573,NA,494829.222573,NA
+"Male","Oral disorders","Non-communicable","Percent",0.0102418577131,NA,0.0251964032389,NA
+"Male","Osteoarthritis","Non-communicable","Number",403502.353219,NA,403502.353219,NA
+"Male","Osteoarthritis","Non-communicable","Percent",0.00835095210691,NA,0.0205416602335,NA
+"Male","Other cardiovascular and circulatory diseases","Non-communicable","Number",471198.3302,18790.0717275,151191.553537,320006.776664
+"Male","Other cardiovascular and circulatory diseases","Non-communicable","Percent",0.00981030693655,0.0133707980446,0.0076929183701,0.011245582687
+"Male","Other chronic respiratory diseases","Non-communicable","Number",53579.8168741,1632.67343173,19866.0030083,33713.8138658
+"Male","Other chronic respiratory diseases","Non-communicable","Percent",0.00111766736358,0.00116180426972,0.00102593051051,0.00118476997143
+"Male","Other digestive diseases","Non-communicable","Number",81318.1274275,4209.10424014,13156.4187957,68161.7086318
+"Male","Other digestive diseases","Non-communicable","Percent",0.00169558542985,0.00299508215438,0.000670550181157,0.00239527841802
+"Male","Other maternal disorders","Communicable","Number",0,NA,0,NA
+"Male","Other maternal disorders","Communicable","Percent",0,NA,0,NA
+"Male","Other mental and substance use disorders","Non-communicable","Number",359356.542232,NA,359356.542232,NA
+"Male","Other mental and substance use disorders","Non-communicable","Percent",0.00744732274577,NA,0.0183553244782,NA
+"Male","Other musculoskeletal disorders","Non-communicable","Number",837265.917161,1856.88920551,795182.563127,42083.3540345
+"Male","Other musculoskeletal disorders","Non-communicable","Percent",0.0173570082314,0.00132132424378,0.0406032208374,0.00147885613624
+"Male","Other neglected tropical diseases","Communicable","Number",3174.02560231,111.123295655,2.30194648577,3171.72365582
+"Male","Other neglected tropical diseases","Communicable","Percent",6.62448801703e-05,7.90734280962e-05,1.1681325741e-07,0.000111462051503
+"Male","Other neonatal disorders","Communicable","Number",126444.409541,1407.86326109,4590.0602041,121854.349337
+"Male","Other neonatal disorders","Communicable","Percent",0.00263900911689,0.00100189572138,0.000235392758208,0.0042825329896
+"Male","Other neoplasms","Non-communicable","Number",306631.609435,14317.019718,7750.71392874,298880.895506
+"Male","Other neoplasms","Non-communicable","Percent",0.00640063455168,0.0101877309825,0.000395327523,0.010503168759
+"Male","Other neurological disorders","Non-communicable","Number",128035.744025,3292.86821796,36154.4316924,91881.312333
+"Male","Other neurological disorders","Non-communicable","Percent",0.00266799697494,0.00234315966688,0.00184855603205,0.00322888615786
+"Male","Other nutritional deficiencies","Communicable","Number",3682.39128515,217.268438176,357.543805541,3324.84747961
+"Male","Other nutritional deficiencies","Communicable","Percent",7.68573548666e-05,0.000154580742519,1.8175647868e-05,0.000116821219255
+"Male","Other pharynx cancer","Non-communicable","Number",61121.4510235,2514.46639583,3756.36686612,57365.0841573
+"Male","Other pharynx cancer","Non-communicable","Percent",0.0012754916384,0.00178920183362,0.000191481596289,0.00201583292949
+"Male","Other transport injuries","Injuries","Number",154113.909268,2457.09476963,50905.3023696,103208.606898
+"Male","Other transport injuries","Injuries","Percent",0.00320884669207,0.00174842380282,0.00258993743399,0.00362694585946
+"Male","Other unintentional injuries","Injuries","Number",94567.1499083,504.05493806,72552.4787197,22014.6711887
+"Male","Other unintentional injuries","Injuries","Percent",0.00196088451709,0.00035867484542,0.0036918043132,0.000773630745489
+"Male","Otitis media","Communicable","Number",35425.2828085,11.9435453656,35030.2193819,395.06342663
+"Male","Otitis media","Communicable","Percent",0.000733016594578,8.49911055739e-06,0.00178191037744,1.38839759251e-05
+"Male","Ovarian cancer","Non-communicable","Number",0,NA,NA,NA
+"Male","Ovarian cancer","Non-communicable","Percent",0,NA,NA,NA
+"Male","Pancreatic cancer","Non-communicable","Number",456241.550028,22928.5481991,5308.87036068,450932.679668
+"Male","Pancreatic cancer","Non-communicable","Percent",0.0095253330881,0.0163153255927,0.000271545447824,0.0158462375129
+"Male","Pancreatitis","Non-communicable","Number",68525.6768733,2462.64272683,6887.9608135,61637.7160598
+"Male","Pancreatitis","Non-communicable","Percent",0.00142916124303,0.00175211491278,0.000351388320659,0.00216570779473
+"Male","Paralytic ileus and intestinal obstruction","Non-communicable","Number",71355.5043968,4228.73079891,1880.43692774,69475.0674691
+"Male","Paralytic ileus and intestinal obstruction","Non-communicable","Percent",0.00148953070878,0.00300893462248,9.59455963283e-05,0.00244134178259
+"Male","Parkinson disease","Non-communicable","Number",220082.545987,15884.8826592,46379.6459128,173702.900074
+"Male","Parkinson disease","Non-communicable","Percent",0.00458792338271,0.0113035764773,0.00236943637074,0.00610418434505
+"Male","Peptic ulcer disease","Non-communicable","Number",49163.3336836,2539.80200062,3981.51433787,45181.8193457
+"Male","Peptic ulcer disease","Non-communicable","Percent",0.00102543721329,0.00180705554978,0.000203364382615,0.00158753923749
+"Male","Peripheral artery disease","Non-communicable","Number",78832.2312308,4447.55659164,18755.390766,60076.8404648
+"Male","Peripheral artery disease","Non-communicable","Percent",0.00164424197996,0.00316525448832,0.000957624432883,0.00211145906472
+"Male","Pneumoconiosis","Non-communicable","Number",21735.5812866,959.564703867,9363.61450442,12371.9667822
+"Male","Pneumoconiosis","Non-communicable","Percent",0.000452456602746,0.000682841933095,0.000478526544566,0.000434793354709
+"Male","Poisonings","Injuries","Number",64334.9071538,1160.81970082,13289.507343,51045.3998108
+"Male","Poisonings","Injuries","Percent",0.00134027489159,0.000826071817867,0.000675493591823,0.00179396027324
+"Male","Prostate cancer","Non-communicable","Number",583238.367769,35467.5464976,122789.747791,460448.619978
+"Male","Prostate cancer","Non-communicable","Percent",0.0121594926011,0.0252380830392,0.00626836041324,0.0161807358452
+"Male","Protein-energy malnutrition","Communicable","Number",30976.0262048,1548.03345934,10417.1746418,20558.851563
+"Male","Protein-energy malnutrition","Communicable","Percent",0.00064467140811,0.00110161538781,0.000529549974837,0.000722513305406
+"Male","Rabies","Communicable","Number",142.858813083,2.80568271308,0.0146025991546,142.844210484
+"Male","Rabies","Communicable","Percent",2.98257396597e-06,1.99652993947e-06,7.40970110762e-10,5.02001239003e-06
+"Male","Rheumatic heart disease","Non-communicable","Number",91168.9755632,5784.1419408,3214.92301298,87954.0525502
+"Male","Rheumatic heart disease","Non-communicable","Percent",0.00190307423533,0.00411598752546,0.000163584933205,0.00309087236315
+"Male","Rheumatoid arthritis","Non-communicable","Number",176147.922059,708.756849216,163972.285931,12175.6361275
+"Male","Rheumatoid arthritis","Non-communicable","Percent",0.00365401774322,0.000504314681228,0.00838404773456,0.000427848509191
+"Male","Road injuries","Injuries","Number",1693851.65792,31027.1267085,343043.895976,1350807.76194
+"Male","Road injuries","Injuries","Percent",0.0353034802193,0.0220780402373,0.0174549245957,0.0474690389571
+"Male","Schistosomiasis","Communicable","Number",0,0,0,0
+"Male","Schistosomiasis","Communicable","Percent",0,0,0,0
+"Male","Schizophrenia","Non-communicable","Number",361145.121431,NA,361145.121431,NA
+"Male","Schizophrenia","Non-communicable","Percent",0.00751488104471,NA,0.0186303581577,NA
+"Male","Self-harm","Injuries","Number",1470085.59653,36019.521421,27642.9782281,1442442.6183
+"Male","Self-harm","Injuries","Percent",0.0306933951118,0.0256302082827,0.00140586092539,0.0506885707176
+"Male","Sense organ diseases","Non-communicable","Number",1184209.21563,NA,1184209.21563,NA
+"Male","Sense organ diseases","Non-communicable","Percent",0.0245175651287,NA,0.0603380810579,NA
+"Male","Sexually transmitted diseases excluding HIV","Communicable","Number",19916.3314261,34.1613388206,18862.1631766,1054.16824951
+"Male","Sexually transmitted diseases excluding HIV","Communicable","Percent",0.000412885913531,2.43084854968e-05,0.000963149626055,3.70444347271e-05
+"Male","Skin and subcutaneous diseases","Non-communicable","Number",1391743.93981,3011.09808791,1338362.60704,53381.332775
+"Male","Skin and subcutaneous diseases","Non-communicable","Percent",0.0288294230892,0.00214237109403,0.0682232157582,0.00187564185078
+"Male","Stomach cancer","Non-communicable","Number",194121.975543,9952.59214521,5249.31676545,188872.658778
+"Male","Stomach cancer","Non-communicable","Percent",0.0040521688626,0.00708196502038,0.000268171364039,0.00663710196399
+"Male","Sudden infant death syndrome","Non-communicable","Number",94430.8231105,1096.17654717,NA,94430.8231105
+"Male","Sudden infant death syndrome","Non-communicable","Percent",0.00197168106655,0.000780114718989,NA,0.00331888556258
+"Male","Tension-type headache","Non-communicable","Number",104680.408182,NA,104680.408182,NA
+"Male","Tension-type headache","Non-communicable","Percent",0.00216602318049,NA,0.00532625920638,NA
+"Male","Testicular cancer","Non-communicable","Number",23038.0282172,426.86190765,4731.37963188,18306.6485853
+"Male","Testicular cancer","Non-communicable","Percent",0.000480140325408,0.000303738482028,0.000240813634838,0.000643305401309
+"Male","Tetanus","Communicable","Number",159.695569313,5.01085652536,0.433066498985,159.262502814
+"Male","Tetanus","Communicable","Percent",3.33384555058e-06,3.56466801231e-06,2.20290492172e-08,5.59533310012e-06
+"Male","Thyroid cancer","Non-communicable","Number",24164.9539677,929.765428427,5661.63650254,18503.3174651
+"Male","Thyroid cancer","Non-communicable","Percent",0.000503493649843,0.000661594253128,0.000288280333116,0.000650222995225
+"Male","Tracheal, bronchus, and lung cancer","Non-communicable","Number",2047133.25356,105601.336532,31663.9432528,2015469.3103
+"Male","Tracheal, bronchus, and lung cancer","Non-communicable","Percent",0.042738516318,0.0751434662069,0.00162151944501,0.070826039776
+"Male","Trachoma","Communicable","Number",0,NA,0,NA
+"Male","Trachoma","Communicable","Percent",0,NA,0,NA
+"Male","Tuberculosis","Communicable","Number",13380.5462203,571.048974624,1009.60114106,12370.9450792
+"Male","Tuberculosis","Communicable","Percent",0.000279204086426,0.000406338530494,5.14310798403e-05,0.000434719794394
+"Male","Upper respiratory infections","Communicable","Number",146761.905363,12.4050062817,146402.448699,359.456663837
+"Male","Upper respiratory infections","Communicable","Percent",0.00303656115572,8.82742234009e-06,0.00744881592205,1.26325145196e-05
+"Male","Urinary diseases and male infertility","Non-communicable","Number",332320.536131,6815.45155811,243731.312283,88589.223848
+"Male","Urinary diseases and male infertility","Non-communicable","Percent",0.00689315388996,0.00484979646055,0.0124023819009,0.00311315175936
+"Male","Uterine cancer","Non-communicable","Number",0,NA,NA,NA
+"Male","Uterine cancer","Non-communicable","Percent",0,NA,NA,NA
+"Male","Varicella and herpes zoster","Communicable","Number",8575.33708859,111.612776687,5970.71703861,2604.62004998
+"Male","Varicella and herpes zoster","Communicable","Percent",0.00017784805562,7.94277663002e-05,0.000303445287126,9.1542409271e-05
+"Male","Vascular intestinal disorders","Non-communicable","Number",61360.0625956,3609.6263841,1997.88644133,59362.1761543
+"Male","Vascular intestinal disorders","Non-communicable","Percent",0.00128056232522,0.00256825757962,0.000102039502212,0.0020858047553
+"Male","Vitamin A deficiency","Communicable","Number",0,NA,0,NA
+"Male","Vitamin A deficiency","Communicable","Percent",0,NA,0,NA
+"Male","Whooping cough","Communicable","Number",1571.99613264,13.1098718091,537.179222465,1034.81691017
+"Male","Whooping cough","Communicable","Percent",3.2697073973e-05,9.32745779194e-06,2.72812350699e-05,3.63594644859e-05
+"Male","Yellow fever","Communicable","Number",0,0,0,0
+"Male","Yellow fever","Communicable","Percent",0,0,0,0
+"Male","Zika virus","Communicable","Number",21.5743745698,0.0205458079392,20.7125169074,0.861857662326
+"Male","Zika virus","Communicable","Percent",4.49762070632e-07,1.45949705503e-08,1.06978564193e-06,3.02351700472e-08
