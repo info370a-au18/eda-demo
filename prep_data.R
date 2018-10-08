@@ -38,6 +38,11 @@ all_data <- all_data %>%
 wide_data <- all_data %>% 
   spread(measure, val)
 
+# Keep only *number*
+wide_data <- wide_data %>% 
+  filter(metric == "Number") %>% 
+  select(-metric)
+
 
 # Write data
 write.csv(wide_data, 'data/prepped_data.csv', row.names = F)
